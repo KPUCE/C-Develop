@@ -13,7 +13,7 @@
 ### 참고문헌
  * 서현우 저, 혼자공부하는 C언어(개정판), 한빛 미디어, 2023. [https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS]
  * 강병익 저, 실무자를 위한 C언어 100제, 정보문화사, 2023.[https://github.com/BeeEyeDmu/C100]
- * 박상현 저, 이것이 자료구조 + 알고리즘 이다 with C언어, 한빛미디어, 2022.
+ * 박상현 저, 이것이 자료구조 + 알고리즘 이다 with C언어, 한빛미디어, 2022. [https://www.hanbit.co.kr/src/11003]
  * [가장 인기있는 Linux 50가지 명령어, freeCodeCamp.org] [https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=1255s]
  * [vim 제대로 가르쳐줌, 드림코딩] [https://www.youtube.com/watch?v=cY0JxzENBJg&t=801s]
  * [Terminal Multiplexor Tmux 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/Terminal-Multiplexer.pdf]
