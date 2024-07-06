@@ -31,7 +31,9 @@
  * 김동현 저, 디버깅을 통해 배우는 리눅스 커널 구조와 원리 1,2, 위키북스, 2020.
    
 ## 소프트웨어 개발방법론
-  * Git, Github, Github Action
+  * Git을 이용한 소스코드 버전관리
+  * Github을 이용한 협업, Project관리, 이슈관리
+  * Github Action을 이용한 CI(Continuous Integration / Contiguous Delivery)
 
 ### 참고문헌
  * [Git, Github 사용법1, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=lelVripbt2M&t=612s]
