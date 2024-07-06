@@ -33,6 +33,8 @@
  * [Git. Github 사용법2, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=cwC8t9dno2s]
  * [허준영 교수 강의자료] [https://jyheo.github.io/github-lecture/]
  * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] [https://opentutorials.org/module/3733]
+ * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
+ * [Git Flow, 코딩애플] [https://www.youtube.com/watch?v=EV3FZ3cWBp8&t=269s]
 
 ## 기타 유용한 툴
   * VS Code 사용법
