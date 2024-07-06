@@ -23,7 +23,7 @@
  * [Terminal Multiplexor Tmux 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/Terminal-Multiplexer.pdf]
 
 ## 임베디드시스템 개발 환경 학습
-  * 아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발
+  * **아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발**
 
 ## 소프트웨어 개발방법론
   * Git, Github, Github Action
