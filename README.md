@@ -23,8 +23,11 @@
  * [Terminal Multiplexor Tmux 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/Terminal-Multiplexer.pdf]
 
 ## 임베디드시스템 개발 환경 학습
-  * **아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발**
+  * **아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발** [무료교육, 휴인스 교육센터] [www.huins.com]
 
+### 참고문헌
+ * 김동현 저, 디버깅을 통해 배우는 리눅스 커널 구조와 원리 1,2, 위키북스, 2020.
+   
 ## 소프트웨어 개발방법론
   * Git, Github, Github Action
 
