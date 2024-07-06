@@ -11,7 +11,7 @@
 ## UNIX 시스템과 C언어 학습
   * C언어 학습
   * Linux 사용법, vim 에디터 사용법, gcc 컴파일러를 이용한 개발환경, Tmux 사용법
-  * UNIX 시스템 프로그래밍 
+  * UNIX 시스템 프로그래밍 학습
 
 ### 참고문헌
  * 서현우 저, 혼자공부하는 C언어(개정판), 한빛 미디어, 2023. [https://www.youtube.com/watch?v=wWJ3koUPPG4&list=PLVsNizTWUw7EYNg_fyTEFYgd84p2uK-aS]
