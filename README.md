@@ -24,7 +24,7 @@
  * [vim 제대로 가르쳐줌, 드림코딩] [https://www.youtube.com/watch?v=cY0JxzENBJg&t=801s]
  * [Terminal Multiplexor Tmux 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/Terminal-Multiplexer.pdf]
 
-## 임베디드시스템 개발 환경 학습
+## LINUX 커널과 임베디드시스템 개발 환경 학습
   * **아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발** [무료교육, 휴인스 교육센터] [www.huins.com]
 
 ### 참고문헌
