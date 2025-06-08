@@ -23,6 +23,8 @@
  * [가장 인기있는 Linux 50가지 명령어, freeCodeCamp.org] [https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=1255s]
  * [vim 제대로 가르쳐줌, 드림코딩] [https://www.youtube.com/watch?v=cY0JxzENBJg&t=801s]
  * [Terminal Multiplexor Tmux 사용법] [https://github.com/KPUCE/SW-EDU/blob/main/Terminal-Multiplexer.pdf]
+ * MARC ROCHKIND 저, 이병준, 우남윤 공저, Advanced UNIX Programming 2판, 정보문화사, 2005.
+ * 데이비드 부트노프 저, 권상호 외 역, POSIX 쓰레드를 이용한 프로그래밍, 인포북, 2003.
 
 ## LINUX 커널과 임베디드시스템 개발 환경 학습
   * **아두이노, 라즈베리파이를 이용한 임베디드 시스템 응용 개발** [무료교육, 휴인스 교육센터] [www.huins.com]
