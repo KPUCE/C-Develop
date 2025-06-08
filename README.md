@@ -46,7 +46,7 @@
 
 ## 기타 유용한 툴
   * VS Code 사용법
-  * AI Coding Assistant 활용(GPT, Claude, Github Copilot)
+  * AI Coding Assistant 활용(GPT, Claude, Github Copilot, Gemini, Cursor AI 등)
 
 ### 참고문헌
   * [VS Code 기본사용법, 생활코딩] [https://www.youtube.com/watch?v=K8qVH8V0VvY&t=195s]
